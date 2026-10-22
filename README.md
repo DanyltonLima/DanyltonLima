@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" alt="Danylton Lima — Software Engineer, front-end e full-stack" width="100%" />
 
-<a href="https://www.linkedin.com/in/danylton-l-87a902275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/danyltonlima/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:danyltonlima12@gmail.com"><img src="https://img.shields.io/badge/E--mail-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
